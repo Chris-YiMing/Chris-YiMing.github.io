@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21f47c29-c47e-4186-a5f8-ab5263ac9b4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +104,7 @@
       <workItem from="1595585755860" duration="317000" />
       <workItem from="1595586425696" duration="133000" />
       <workItem from="1595587554788" duration="49000" />
+      <workItem from="1595587672846" duration="107000" />
     </task>
     <servers />
   </component>
@@ -111,9 +112,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="636" y="251" width="647" height="538" key="find.popup" timestamp="1595586446827">
+    <state x="636" y="251" width="647" height="538" key="find.popup" timestamp="1595587776578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="636" y="251" width="647" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595586446827" />
+    <state x="636" y="251" width="647" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595587776578" />
   </component>
 </project>

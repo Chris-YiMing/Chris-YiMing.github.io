@@ -4,11 +4,7 @@ title: 关于
 reward: false
 ---
 
-### Minimalism
+<center><img src="https://chris-yiming.github.io/assets/img/about.jpg" width="200" height="200"/></center>
 
----
-
-[Minimalism] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
-
-[Minimalism]: https://github.com/showzeng/Minimalism
-[Jekyll]: https://jekyllrb.com/
+<center><p style="font-size='16px' font-style='bold'">汇星JAVA开发工程师</p></center>
+<center><p style="font-size='16px' font-style='bold'">记录世界、记录你我！</p></center>
